@@ -1,5 +1,7 @@
 > [!IMPORTANT]
 > 本仓库仅用于思懿的**发布**，不包含任何源码，请前往 Release 界面下载最新版本。
+>
+> 唯一的例外是课程作业文档：[`docs/course-se/06-requirements/`](docs/course-se/06-requirements/)（软件工程第六讲 · 需求获取）。
 
 <div align="center">
 
